@@ -1,6 +1,9 @@
 {
-  "name": "webpack-dev-middleware",
-  "version": "3.7.2",
+  "name": "@cosium-fork/webpack-dev-middleware",
+  "version": "3.7.2-0",
+  "publishConfig": {
+    "registry": "https://nexus.cosium.dev/repository/npm-releases"
+  },
   "description": "A development middleware for webpack",
   "license": "MIT",
   "repository": "webpack/webpack-dev-middleware",
